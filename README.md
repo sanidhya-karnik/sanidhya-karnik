@@ -1,5 +1,5 @@
 # **About me:**
-- I'm currently pursuing MS in Data Analytics Engineering @ Northeastern University.
+- I'm currently pursuing MS in Data Analytics Engineering @Northeastern University.
 
 - I'm open to Summer'24/Fall'24 Internships/Co-Op opportunities as a Data Scientist/Analyst.
 
