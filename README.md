@@ -1,6 +1,6 @@
 # About Me
 
-I’m currently pursuing a Master of Science in Data Analytics Engineering at Northeastern University. I'm 2020 BTech Grad from IIT Madras.
+I’m currently pursuing a Master of Science in Data Analytics Engineering at Northeastern University. I'm a 2020 BTech Grad from IIT Madras.
 
 ## Coursework:
 - **IE7300 Statistical Learning for Engineering:** Exploring statistical models and techniques for building predictive models in engineering contexts.
