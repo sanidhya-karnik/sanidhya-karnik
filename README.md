@@ -4,6 +4,7 @@ I’m currently pursuing a Master of Science degree in Data Analytics Engineerin
 
 ## Coursework:
 - **IE7295 Applied Reinforcement Learning in Engineering:** A reinforcement learning course covering core concepts and algorithms, with hands‑on labs applying RL to manufacturing, supply chain, healthcare, and engineering economics.
+- **CS6120 Natural Language Processing:** Applying computational and statistical language models to real-world tasks such as automated classification, intelligent query processing, and information extraction, with hands-on development of NLP applications.
 - **IE7300 Statistical Learning for Engineering:** Exploring statistical models and techniques for building predictive models in engineering contexts.
 - **IE7275 Data Mining in Engineering:** Utilizing machine learning techniques to extract knowledge from large datasets in engineering domains.
 - **CS5800 Algorithms:** Studying algorithm design, analysis, and implementation with a focus on efficiency and optimization.
