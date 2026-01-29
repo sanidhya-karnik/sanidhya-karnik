@@ -1,16 +1,26 @@
 # About Me
 
-I’m currently pursuing a Master of Science degree in Data Analytics Engineering at Northeastern University. I'm a 2020 BTech Grad from IIT Madras.
+Data Scientist with 3.5+ years of experience building ML models, data pipelines, and analytics solutions. I hold an MS in Data Analytics Engineering from Northeastern University and a BTech in Mechanical Engineering from IIT Madras.
 
-## Coursework:
-- **IE7295 Applied Reinforcement Learning in Engineering:** A reinforcement learning course covering core concepts and algorithms, with hands‑on labs applying RL to manufacturing, supply chain, healthcare, and engineering economics.
-- **CS6120 Natural Language Processing:** Applying computational and statistical language models to real-world tasks such as automated classification, intelligent query processing, and information extraction, with hands-on development of NLP applications.
-- **IE7300 Statistical Learning for Engineering:** Exploring statistical models and techniques for building predictive models in engineering contexts.
-- **IE7275 Data Mining in Engineering:** Utilizing machine learning techniques to extract knowledge from large datasets in engineering domains.
-- **CS5800 Algorithms:** Studying algorithm design, analysis, and implementation with a focus on efficiency and optimization.
-- **IE6700 Data Management for Analytics:** Focusing on data infrastructure, management systems, and ensuring data quality for analytics.
-- **IE6600 Computation and Visualization for Analytics:** Exploring essential tools for data understanding, visualization, and interpretation in analytics.
-- **IE6400 Foundations for Data Analytics Engineering:** Gaining a comprehensive understanding of the principles and practices in data analytics engineering, including problem-solving and implementation.
+I've worked on forecasting models at HarbourVest Partners, pricing optimization at OYO Hotels, and conversion analytics at Niwish. Currently exploring opportunities in data science and ML engineering.
 
-## Let’s Connect!
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sanidhya-karnik) if you share an interest in data analytics, machine learning, or AI. I’m open to collaborating on projects, discussing research, or exploring new opportunities in the Data Science/AI field.
+## What I Work With
+
+- **AI/ML:** LLMs, RAG Pipelines, LangChain, PyTorch, TensorFlow, Scikit-learn, NLP, Reinforcement Learning
+
+- **Data & Cloud:** SQL, Python, Spark, Airflow, AWS, GCP, Azure, DBT, Docker
+
+- **Visualization:** Power BI, Tableau, Looker
+
+## Featured Projects
+
+- **[Intelligent Learning Advisor](https://github.com/sanidhya-karnik/course-recommendation-system)** — LLM-powered recommendation system using Agentic RAG with LangChain and FAISS
+- **[UAV Search & Rescue Routing](https://github.com/sanidhya-karnik/uav-search-rescue-rl)** — RL-based optimization (Q-Learning, DQN) for drone fleet routing
+- **[Figurative Language Detection](https://github.com/sanidhya-karnik/figurative-language-detection)** — Fine-tuned transformer models (RoBERTa, BERT, DeBERTa) for metaphor and irony detection
+
+## Let's Connect
+
+Open to collaborating on AI/ML projects or discussing opportunities in data science.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanidhya-karnik)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:karnik.sanidhya@gmail.com)
