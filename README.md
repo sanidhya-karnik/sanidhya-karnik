@@ -14,7 +14,8 @@ I've worked on forecasting models at HarbourVest Partners, pricing optimization 
 
 ## Featured Projects
 
-- **[Intelligent Learning Advisor](https://github.com/sanidhya-karnik/course-recommendation-system)** — LLM-powered recommendation system using Agentic RAG with LangChain and FAISS
+- **[Intelligent Learning Advisor](https://github.com/vignankamarthi/agent-coordination-framework)** — LLM-powered recommendation system using Agentic RAG with LangChain and FAISS
+- **[MCP Operations Infrastructure](https://github.com/sanidhya-karnik/mcp-ops-infrastructure)** — Production-ready Model Context Protocol server with RBAC, PostgreSQL audit trails, and multi-API integrations
 - **[UAV Search & Rescue Routing](https://github.com/sanidhya-karnik/uav-search-rescue-rl)** — RL-based optimization (Q-Learning, DQN) for drone fleet routing
 - **[Figurative Language Detection](https://github.com/sanidhya-karnik/figurative-language-detection)** — Fine-tuned transformer models (RoBERTa, BERT, DeBERTa) for metaphor and irony detection
 
